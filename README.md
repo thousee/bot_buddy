@@ -39,7 +39,7 @@ lib/
 3. Get your API key from Google Cloud and initialize the Gemini 1.5 Flash model:
    Replace with your API Key
 
-screenshots:
+##screenshots:
 ![Generate API Key](Generate_API_Key.gif)
 ![UI screen](UI_Screen.mp4)
 
