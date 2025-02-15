@@ -42,7 +42,7 @@ lib/
 ##screenshots:
 ![Generate API Key](screenshots/Generate_API_Key.gif)
 
-![UI screen](screenshots/UI_Screen.mp4)
+![UI screen](screenshots/UI_Screen.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
